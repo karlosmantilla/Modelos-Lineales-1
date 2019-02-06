@@ -445,6 +445,8 @@ points(varsel$Endemics,varsel$Species, pch = 20)
 ![png](output_31_0.png)
 
 
+El resumen del script se puede consultar en el siguiente enlace: https://github.com/karlosmantilla/Modelos-Lineales-1/blob/master/Modelos%20Lineales%201.R
+
 ### Ejercicio
 
 Con el mismo conjunto de datos `gala` el estudiante realizará la exploración de las diferentes combinaciones de variables usando como variable dependiente la denominada `Species`. Debe discutir la interpretación de los resultados con sus compañeros de clase.
@@ -459,6 +461,7 @@ El conjunto de datos del enlace https://www.dropbox.com/s/dn30luorh63w1h3/acme.c
 
 El estudiante debe plantear el modelo lineal adecuado y realizar el correspondiente análisis.
 
+El script básico se puede consultar en el siguiente enlace: https://github.com/karlosmantilla/Modelos-Lineales-1/blob/master/ejemploAcme.R
 
 ### Taller en casa
 
